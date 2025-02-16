@@ -1,1 +1,1 @@
-export const api_endpoint = "http://localhost:3001";
+export const api_endpoint = "https://attendencemanagement2-1.onrender.com";
